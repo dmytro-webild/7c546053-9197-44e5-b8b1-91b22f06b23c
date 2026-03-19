@@ -90,10 +90,10 @@ export default function LandingPage() {
           animationType="slide-up"
           products={[
             {
-              id: "tiles",              name: "Premium Floor Tiles",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg",              imageAlt: "Premium ceramic and porcelain floor tiles"
+              id: "tiles",              name: "Premium Floor Tiles",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg?_wi=1",              imageAlt: "Premium ceramic and porcelain floor tiles"
             },
             {
-              id: "grout",              name: "Professional Grouting Material",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg",              imageAlt: "High-quality grouting compounds"
+              id: "grout",              name: "Professional Grouting Material",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg?_wi=2",              imageAlt: "High-quality grouting compounds"
             },
             {
               id: "adhesive",              name: "Tile Adhesive & Bonding",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/repairing-tools_1417-1784.jpg",              imageAlt: "Professional tile adhesive products"
@@ -270,7 +270,7 @@ export default function LandingPage() {
           description="Have questions or ready to place an order? Contact Navkar Building & Material today. Our team is ready to assist with your flooring and construction material needs."
           useInvertedBackground={false}
           mediaAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg?_wi=1"
           imageAlt="Contact our team"
           mediaPosition="right"
           inputs={[
@@ -284,7 +284,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg?_wi=2"
           imageAlt="Navkar Building & Material"
           logoText="Navkar Building & Material"
           copyrightText="© 2025 Navkar Building & Material. All rights reserved."
