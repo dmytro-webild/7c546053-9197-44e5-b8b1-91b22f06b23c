@@ -90,10 +90,10 @@ export default function LandingPage() {
           animationType="slide-up"
           products={[
             {
-              id: "tiles",              name: "Premium Floor Tiles",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg",              imageAlt: "Premium ceramic and porcelain floor tiles"
+              id: "tiles",              name: "Premium Floor Tiles",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg?_wi=1",              imageAlt: "Premium ceramic and porcelain floor tiles"
             },
             {
-              id: "grout",              name: "Professional Grouting Material",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg",              imageAlt: "High-quality grouting compounds"
+              id: "grout",              name: "Professional Grouting Material",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg?_wi=2",              imageAlt: "High-quality grouting compounds"
             },
             {
               id: "adhesive",              name: "Tile Adhesive & Bonding",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/repairing-tools_1417-1784.jpg",              imageAlt: "Professional tile adhesive products"
@@ -114,11 +114,11 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Unmatched Durability",              description: "Our flooring and grouting materials are engineered to withstand heavy use and maintain their quality for decades, ensuring long-term value for your investment.",              imageSrc: "http://img.b2bpic.net/free-photo/woman-playing-with-her-child-hardwood-floor_23-2147909440.jpg",              imageAlt: "Durable flooring materials"
+              title: "Unmatched Durability",              description: "Our flooring and grouting materials are engineered to withstand heavy use and maintain their quality for decades, ensuring long-term value for your investment.",              imageSrc: "http://img.b2bpic.net/free-photo/woman-playing-with-her-child-hardwood-floor_23-2147909440.jpg?_wi=1",              imageAlt: "Durable flooring materials"
             },
             {
               id: 2,
-              title: "Expert Installation Support",              description: "We provide professional guidance and support throughout the installation process, ensuring perfect results and customer satisfaction on every project.",              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-men-with-safety-vests_23-2148269349.jpg",              imageAlt: "Professional installation process"
+              title: "Expert Installation Support",              description: "We provide professional guidance and support throughout the installation process, ensuring perfect results and customer satisfaction on every project.",              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-men-with-safety-vests_23-2148269349.jpg?_wi=1",              imageAlt: "Professional installation process"
             }
           ]}
         />
@@ -136,16 +136,16 @@ export default function LandingPage() {
           animationType="slide-up"
           metrics={[
             {
-              id: "1",              value: "20+",              title: "Years of Experience",              description: "Serving the construction industry with excellence and reliability",              imageSrc: "http://img.b2bpic.net/free-photo/woman-playing-with-her-child-hardwood-floor_23-2147909440.jpg",              imageAlt: "Durable flooring materials"
+              id: "1",              value: "20+",              title: "Years of Experience",              description: "Serving the construction industry with excellence and reliability",              imageSrc: "http://img.b2bpic.net/free-photo/woman-playing-with-her-child-hardwood-floor_23-2147909440.jpg?_wi=2",              imageAlt: "Durable flooring materials"
             },
             {
-              id: "2",              value: "5000+",              title: "Projects Completed",              description: "Residential and commercial projects delivered with precision",              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-men-with-safety-vests_23-2148269349.jpg",              imageAlt: "Professional installation process"
+              id: "2",              value: "5000+",              title: "Projects Completed",              description: "Residential and commercial projects delivered with precision",              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-men-with-safety-vests_23-2148269349.jpg?_wi=2",              imageAlt: "Professional installation process"
             },
             {
-              id: "3",              value: "98%",              title: "Customer Satisfaction",              description: "Consistently exceeding client expectations",              imageSrc: "http://img.b2bpic.net/free-photo/woman-playing-with-her-child-hardwood-floor_23-2147909440.jpg",              imageAlt: "Customer satisfaction"
+              id: "3",              value: "98%",              title: "Customer Satisfaction",              description: "Consistently exceeding client expectations",              imageSrc: "http://img.b2bpic.net/free-photo/woman-playing-with-her-child-hardwood-floor_23-2147909440.jpg?_wi=3",              imageAlt: "Customer satisfaction"
             },
             {
-              id: "4",              value: "50+",              title: "Product Varieties",              description: "Comprehensive range of quality materials",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg",              imageAlt: "Product variety"
+              id: "4",              value: "50+",              title: "Product Varieties",              description: "Comprehensive range of quality materials",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg?_wi=3",              imageAlt: "Product variety"
             }
           ]}
         />
@@ -250,7 +250,7 @@ export default function LandingPage() {
           description="Have questions or ready to place an order? Contact Navkar Building & Material today. Our team is ready to assist with your flooring and construction material needs."
           useInvertedBackground={false}
           mediaAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg?_wi=1"
           imageAlt="Contact our team"
           mediaPosition="right"
           inputs={[
@@ -264,7 +264,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg?_wi=2"
           imageAlt="Navkar Building & Material"
           logoText="Navkar Building & Material"
           copyrightText="© 2025 Navkar Building & Material. All rights reserved."
