@@ -90,10 +90,10 @@ export default function LandingPage() {
           animationType="slide-up"
           products={[
             {
-              id: "tiles",              name: "Premium Floor Tiles",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg?_wi=1",              imageAlt: "Premium ceramic and porcelain floor tiles"
+              id: "tiles",              name: "Premium Floor Tiles",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg",              imageAlt: "Premium ceramic and porcelain floor tiles"
             },
             {
-              id: "grout",              name: "Professional Grouting Material",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg?_wi=2",              imageAlt: "High-quality grouting compounds"
+              id: "grout",              name: "Professional Grouting Material",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg",              imageAlt: "High-quality grouting compounds"
             },
             {
               id: "adhesive",              name: "Tile Adhesive & Bonding",              price: "Custom Pricing",              imageSrc: "http://img.b2bpic.net/free-photo/repairing-tools_1417-1784.jpg",              imageAlt: "Professional tile adhesive products"
@@ -136,16 +136,16 @@ export default function LandingPage() {
           animationType="slide-up"
           metrics={[
             {
-              id: "1",              value: "20+",              title: "Years of Experience",              description: "Serving the construction industry with excellence and reliability"
+              id: "1",              value: "20+",              title: "Years of Experience",              description: "Serving the construction industry with excellence and reliability",              imageSrc: "http://img.b2bpic.net/free-photo/woman-playing-with-her-child-hardwood-floor_23-2147909440.jpg",              imageAlt: "Durable flooring materials"
             },
             {
-              id: "2",              value: "5000+",              title: "Projects Completed",              description: "Residential and commercial projects delivered with precision"
+              id: "2",              value: "5000+",              title: "Projects Completed",              description: "Residential and commercial projects delivered with precision",              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-men-with-safety-vests_23-2148269349.jpg",              imageAlt: "Professional installation process"
             },
             {
-              id: "3",              value: "98%",              title: "Customer Satisfaction",              description: "Consistently exceeding client expectations"
+              id: "3",              value: "98%",              title: "Customer Satisfaction",              description: "Consistently exceeding client expectations",              imageSrc: "http://img.b2bpic.net/free-photo/woman-playing-with-her-child-hardwood-floor_23-2147909440.jpg",              imageAlt: "Customer satisfaction"
             },
             {
-              id: "4",              value: "50+",              title: "Product Varieties",              description: "Comprehensive range of quality materials"
+              id: "4",              value: "50+",              title: "Product Varieties",              description: "Comprehensive range of quality materials",              imageSrc: "http://img.b2bpic.net/free-photo/crispbread-falling-from-overturned-yellow-bucket-marble-surface_114579-61251.jpg",              imageAlt: "Product variety"
             }
           ]}
         />
@@ -164,27 +164,7 @@ export default function LandingPage() {
             "BuildPro Contractors",            "Elite Builders Group",            "Modern Construction Inc",            "Premium Homes Co",            "Urban Development Ltd",            "Quality Structures",            "Master Builders Alliance"
           ]}
           logos={[
-            {
-              src: "http://img.b2bpic.net/free-vector/business-card-with-abstract-building_1057-4472.jpg",              alt: "BuildPro Contractors"
-            },
-            {
-              src: "http://img.b2bpic.net/free-vector/corporate-identity-navy-blue-tone_23-2147509505.jpg",              alt: "Elite Builders Group"
-            },
-            {
-              src: "http://img.b2bpic.net/free-vector/business-flyer-design_1435-1121.jpg",              alt: "Modern Construction Inc"
-            },
-            {
-              src: "http://img.b2bpic.net/free-vector/retro-design-logo-set_23-2148464165.jpg",              alt: "Premium Homes Co"
-            },
-            {
-              src: "http://img.b2bpic.net/free-photo/happy-smiling-female-entrepreneur-small-business-owner-working-with-client-orders-website-packing_1258-88415.jpg",              alt: "Urban Development Ltd"
-            },
-            {
-              src: "http://img.b2bpic.net/free-vector/gradient-mountain-logo-design_23-2151257010.jpg",              alt: "Quality Structures"
-            },
-            {
-              src: "http://img.b2bpic.net/free-vector/abstract-business-card-template-with-photo_23-2148370828.jpg",              alt: "Master Builders Alliance"
-            }
+            "http://img.b2bpic.net/free-vector/business-card-with-abstract-building_1057-4472.jpg",            "http://img.b2bpic.net/free-vector/corporate-identity-navy-blue-tone_23-2147509505.jpg",            "http://img.b2bpic.net/free-vector/business-flyer-design_1435-1121.jpg",            "http://img.b2bpic.net/free-vector/retro-design-logo-set_23-2148464165.jpg",            "http://img.b2bpic.net/free-photo/happy-smiling-female-entrepreneur-small-business-owner-working-with-client-orders-website-packing_1258-88415.jpg",            "http://img.b2bpic.net/free-vector/gradient-mountain-logo-design_23-2151257010.jpg",            "http://img.b2bpic.net/free-vector/abstract-business-card-template-with-photo_23-2148370828.jpg"
           ]}
           speed={40}
           showCard={true}
@@ -270,7 +250,7 @@ export default function LandingPage() {
           description="Have questions or ready to place an order? Contact Navkar Building & Material today. Our team is ready to assist with your flooring and construction material needs."
           useInvertedBackground={false}
           mediaAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg?_wi=1"
+          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg"
           imageAlt="Contact our team"
           mediaPosition="right"
           inputs={[
@@ -284,7 +264,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg?_wi=2"
+          imageSrc="http://img.b2bpic.net/free-photo/happy-smiling-woman-talking-mobile-phone_171337-12896.jpg"
           imageAlt="Navkar Building & Material"
           logoText="Navkar Building & Material"
           copyrightText="© 2025 Navkar Building & Material. All rights reserved."
